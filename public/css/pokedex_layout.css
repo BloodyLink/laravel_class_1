@@ -1,0 +1,7 @@
+body {
+    background-image: url("../images/epic_background.jpg");
+    background-color: #666666;
+    background-size: 100%;
+    background-attachment: fixed;
+    background-blend-mode: screen;
+}
